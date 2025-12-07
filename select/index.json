@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はーどもーどかのじょ",
+  "base_artist": "nyamura",
+  "createdAt": "2025-12-07T08:33:58.480908Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はーどもーどかのじょ",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_はーどもーどかのじょ_nyamura.txt"
+    }
+  ]
+}
